@@ -3,7 +3,7 @@
 A visually rich, animated, and interactive clone of the Obys Agency website. This project replicates the smooth scroll effects, cursor animations, and creative visuals of the original design using modern web technologies.
 
 ## 🌐 Live Demo
-https://obsagencyclone.netlify.app/
+https://obys-agency-clone-rishu.netlify.app/
 ## 📸 Preview
 ![Obys Agency Clone](./assets/preview.jpg) <!-- You can replace this with an actual screenshot -->
 
